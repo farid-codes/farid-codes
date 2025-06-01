@@ -12,11 +12,11 @@
 
 ### 🧑‍💻 About Me
 
-- 👨‍💻 I’m currently working as a **Software Developer** at [**PT Lakes Konstelasi Data**](https://lakes.co.id)  
-- 🧠 I love solving real-world problems with clean, scalable code
-- 🎯 I specialize in **Flutter development** for Android, iOS, Web, and Desktop
-- 🔧 I also build backend REST APIs using **TypeScript + Express.js**, and work with **PHP/CodeIgniter**
-- 🎓 Final project: **IoT-based Black Tea Withering Monitoring System** using Arduino
+- 👨‍💻 Currently working as a **Software Developer** at [**PT Lakes Konstelasi Data**](https://lakes.co.id)  
+- 🧠 Passionate about solving real-world problems with clean and scalable code  
+- 🎯 Specializing in **Flutter development** for Android, iOS, Web, and Desktop  
+- 🔧 Experienced in building REST APIs using **TypeScript + Express.js**, and also working with **PHP/CodeIgniter**  
+- 🎓 Final project: IoT-based real-time **black tea withering monitoring** system using Arduino
 
 ---
 
@@ -39,7 +39,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)  
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)  
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ---
 
@@ -66,7 +66,8 @@
 - 🌐 Website: [farid-codes.vercel.app](https://farid-codes.vercel.app)  
 - 📧 Email: faridnais88@gmail.com  
 - 📞 WhatsApp: +6285161366963  
-- 💻 GitHub: [github.com/farid-codes](https://github.com/farid-codes)  
+- 💻 GitHub (Personal): [github.com/farid-codes](https://github.com/farid-codes)  
+- 🏢 GitHub (Work): [github.com/naislakes](https://github.com/naislakes)  
 - 💼 LinkedIn: [linkedin.com/in/faridnais8](https://linkedin.com/in/faridnais8)
 
 ---
