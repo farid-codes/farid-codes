@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Nais Farid</h1>
 <p align="center">
-  🚀 Flutter Developer | 💻 Software Engineer | 🌐 <a href="https://farid-codes.vercel.app" target="_blank">farid-codes.vercel.app</a>
+  🚀 Software Developer | 🌐 <a href="https://farid-codes.vercel.app" target="_blank">farid-codes.vercel.app</a>
 </p>
 
 ---
